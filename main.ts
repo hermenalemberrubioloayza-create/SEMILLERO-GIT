@@ -1,2 +1,4 @@
 /comment
-Console.log(" Hola, este es segundo commit")
+nombre= ("Hermen Rubio");
+Console.log("nombre")
+    
